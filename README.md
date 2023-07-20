@@ -33,6 +33,7 @@
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat&logo=springsecurity&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-%236DB33F.svg?style=flat&logo=quarkus&labelColor=black&color=black)
 ![Angular](https://img.shields.io/badge/-Angular-E61A1A?logo=angular)
 ![Flutter](https://img.shields.io/badge/-Flutter-1434A4?logo=flutter)
