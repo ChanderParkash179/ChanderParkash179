@@ -5,7 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanderparkash179&label=Profile%20views&color=0e75b6&style=flat" alt="chanderparkash179" /> </p>
 
+## 💫 About Me:
 - 🔭 I’m currently working on **Profile Center and Lumix Pro by Panasonic Europe**
+
+- 🤝 I'm looking to **collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.**<br>
 
 - 🌱 I’m currently learning **Spring Boot, Angular, Hibernate, PostgreSQL,**
 
@@ -17,19 +20,59 @@
 
 - ⚡ Fun fact **I'm a Fast Bowler**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chander_raaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chander_raaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chanderparkash179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanderparkash179" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22019464/chander-parkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22019464/chander-parkash" height="30" width="40" /></a>
-<a href="https://instagram.com/chander__raaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chander__raaj" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-202060)](https://github.com/ChanderParkash179/ChanderParkash179/blob/main/chanderparkash-portfolio.web.app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanderparkash179) 
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-12100E?logo=stackoverflow)](https://stackoverflow.com/users/22019464/chander-parkash) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-FF6C37?logo=java&labelColor=orange&color=orange) 
+![Dart](https://img.shields.io/badge/-Dart-1434A4?logo=dart)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-%236DB33F.svg?style=flat&logo=quarkus&labelColor=black&color=black)
+![Angular](https://img.shields.io/badge/-Angular-E61A1A?logo=angular)
+![Flutter](https://img.shields.io/badge/-Flutter-1434A4?logo=flutter)
+![REST](https://img.shields.io/badge/-REST-grey?logo=rest)
+![JPA](https://img.shields.io/badge/JPA-yellow?logo=JPA) 
+![Hibernate](https://img.shields.io/badge/-Hibernate-EB9315?logo=hibernate) 
+![IBM-DB2](https://img.shields.io/badge/IBM_DB2-blue?logo=ibm&labelColor=blue&color=blue) 
+![MySQL](https://img.shields.io/badge/MySQL-E6DBD8.svg?style=flat&logo=mysql&labelColor=white&color=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![DBeaver](https://img.shields.io/badge/DBeaver-966A43.svg?style=flat&logo=dbeaver?style=flat) 
+![JIRA](https://img.shields.io/badge/JIRA-1434A4.svg?style=flat&logo=jira) 
+![Jenkins](https://img.shields.io/badge/Jenkins-E6DBD8.svg?style=flat&logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&labelColor=white&color=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-%23591792?logo=github&labelColor=%23591792&color=%23591792) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![Insonmia](https://img.shields.io/badge/Insomnia-FF6C37?logo=insomnia&labelColor=%23591792&color=%23591792) 
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase) 
+![Intellij](https://img.shields.io/badge/-Intellij-white?logo=intellij-idea&logoColor=black) 
+![Eclipse](https://img.shields.io/badge/-Eclipse-D0CCCB?logo=eclipse&logoColor=5A07B2) 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual%20studio%20code&logoColor=ffffff)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanderparkash179&show_icons=true&locale=en&layout=compact" alt="chanderparkash179" /></p>
+# 📊 GitHub Stats:
+[![Chanders's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ChanderParkash179&theme=blue-green)](https://github.com/ChanderParkash179/github-readme-streak-stats)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanderParkash179&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanderparkash179&show_icons=true&locale=en" alt="chanderparkash179" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChanderParkash179&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanderparkash179&" alt="chanderparkash179" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ChanderParkash179&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
+[![](https://visitcount.itsvg.in/api?id=ChanderParkash179&label=Weekly%20Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
