@@ -22,7 +22,7 @@
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-202060)](https://github.com/ChanderParkash179/ChanderParkash179/blob/main/chanderparkash-portfolio.web.app) 
-[![Email](https://img.shields.io/badge/Email-red?logo=mail.ru)](mailto:chanderparkash179@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=mail.ru)](chanderparkash179@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanderparkash179) 
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-12100E?logo=stackoverflow)](https://stackoverflow.com/users/22019464/chander-parkash) 
 
