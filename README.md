@@ -43,7 +43,7 @@
 ![IBM-DB2](https://img.shields.io/badge/IBM_DB2-blue?logo=ibm&labelColor=blue&color=blue) 
 ![MySQL](https://img.shields.io/badge/MySQL-E6DBD8.svg?style=flat&logo=mysql&labelColor=white&color=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![DBeaver](https://img.shields.io/badge/DBeaver-966A43.svg?style=flat&logo=dbeaver?style=flat) 
 ![JIRA](https://img.shields.io/badge/JIRA-1434A4.svg?style=flat&logo=jira) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-E6DBD8.svg?style=flat&logo=jenkins)
