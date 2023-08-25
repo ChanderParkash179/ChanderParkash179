@@ -27,7 +27,7 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22019464/chander-parkash) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-FF6C37?logo=java&labelColor=orange&color=orange) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Dart-1434A4?logo=dart)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
