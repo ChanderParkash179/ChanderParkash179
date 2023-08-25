@@ -21,10 +21,10 @@
 - ⚡ Fun fact **I'm a Fast Bowler**
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-202060)](https://github.com/ChanderParkash179/ChanderParkash179/blob/main/chanderparkash-portfolio.web.app) 
-[![Email](https://img.shields.io/badge/Email-red?logo=mail.ru)](chanderparkash179@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanderparkash179) 
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-12100E?logo=stackoverflow)](https://stackoverflow.com/users/22019464/chander-parkash) 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-337A87?style=for-the-badge&logoColor=white)](https://github.com/ChanderParkash179/ChanderParkash179/blob/main/chanderparkash-portfolio.web.app) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chanderparkash179@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanderparkash179) 
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22019464/chander-parkash) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-FF6C37?logo=java&labelColor=orange&color=orange) 
