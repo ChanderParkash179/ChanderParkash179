@@ -13,17 +13,18 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular, Hibernate, PostgreSQL,**
 
-- 💬 Ask me about **Java, Spring, Hibernate, MySQL, SQL, PostgreSQL, Docker, Flutter, Dart, Linux**
+- 💬 Ask me about **Java, Spring, Spring Boot, Node.js, Nest.js, Angular, Flutter**
 
 - 📫 How to reach me **chanderparkash179@gmail.com**
 
-- 📄 Know about my experiences [chanderparkash-portfolio.web.app](chanderparkash-portfolio.web.app)
+- 📄 Know about my experiences [chanderparkash.me](https://chanderparkash.me)
 
 - ⚡ Fun fact **I'm a Fast Bowler**
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-337A87?style=for-the-badge&logoColor=white)](https://github.com/ChanderParkash179/ChanderParkash179/blob/main/chanderparkash-portfolio.web.app) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chanderparkash179@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](chanderparkash179@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanderparkash179) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](chander_parkash)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22019464/chander-parkash)
