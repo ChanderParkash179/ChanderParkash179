@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I'm a Fast Bowler**
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-337A87?style=for-the-badge&logoColor=white)](https://github.com/ChanderParkash179/ChanderParkash179/blob/main/chanderparkash-portfolio.web.app) 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-337A87?style=for-the-badge&logoColor=white)](https://chanderparkash.me) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](chanderparkash179@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanderparkash179) 
