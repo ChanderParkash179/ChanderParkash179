@@ -29,12 +29,13 @@
 
 # 💻 Tech Stack:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-363636?logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-1434A4?logo=dart)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
@@ -52,7 +53,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-E6DBD8.svg?style=flat&logo=mysql&labelColor=white&color=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![DBeaver](https://img.shields.io/badge/DBeaver-966A43.svg?style=flat&logo=dbeaver?style=flat) 
+![DBeaver](https://img.shields.io/badge/DBeaver-966A43.svg?style=flat&logo=dbeaver?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-1434A4.svg?style=flat&logo=jira) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-E6DBD8.svg?style=flat&logo=jenkins)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
