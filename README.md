@@ -11,7 +11,7 @@
 
 - 🤝 I'm looking to **collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.**<br>
 
-- 🌱 I’m currently learning **Spring Boot, Angular, Hibernate, PostgreSQL,**
+- 🌱 I’m currently learning **Node.js, Nest.js, Angular, MongoDB,**
 
 - 💬 Ask me about **Java, Spring, Spring Boot, Node.js, Nest.js, Angular, Flutter**
 
