@@ -1,6 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](chanderparkash-portfolio.web.app)
 <h1 align="center">Hi 👋, I'm Chander Parkash</h1>
 <h3 align="center">A passionate Full Stack Developer, working as a Full Stack (Java) Developer for Panasonic Europe</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanderparkash179&label=Profile%20views&color=0e75b6&style=flat" alt="chanderparkash179" /> </p>
@@ -50,7 +51,7 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate-EB9315?logo=hibernate)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
 ![IBM-DB2](https://img.shields.io/badge/IBM_DB2-blue?logo=ibm&labelColor=blue&color=blue) 
-![MySQL](https://img.shields.io/badge/MySQL-E6DBD8.svg?style=flat&logo=mysql&labelColor=white&color=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![DBeaver](https://img.shields.io/badge/DBeaver-966A43.svg?style=flat&logo=dbeaver?style=flat)
