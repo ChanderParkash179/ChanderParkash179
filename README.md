@@ -47,6 +47,7 @@
 ![Android](https://img.shields.io/badge/Android-06a94d?style=flat&logo=android&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-%236DB33F.svg?style=flat&logo=quarkus&labelColor=black&color=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/-Flutter-1434A4?logo=flutter)
 ![REST](https://img.shields.io/badge/-REST-grey?logo=REST)
 ![JPA](https://img.shields.io/badge/JPA-yellow?logo=JPA)
